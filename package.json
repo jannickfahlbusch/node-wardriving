@@ -1,0 +1,25 @@
+{
+  "name": "wardriving",
+  "version": "1.0.0",
+  "description": "Wardriving with node.js",
+  "main": "index.js",
+  "dependencies": {
+    "install": "^0.2.3",
+    "npm": "^3.3.10",
+    "routerpwn": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannickfahlbusch/node-wardriving.git"
+  },
+  "author": "Jannick Fahlbusch <git@jf-projects.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jannickfahlbusch/node-wardriving/issues"
+  },
+  "homepage": "https://github.com/jannickfahlbusch/node-wardriving#readme"
+}
