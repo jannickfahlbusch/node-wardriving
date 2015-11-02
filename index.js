@@ -2,7 +2,7 @@ var routerpwn = require('routerpwn');
 var iface = process.argv[2];
 
 if (!iface) {
-    console.log("Usage: " + process.argv[1] + " wlan0");
+    console.log("Usage: " + process.argv[1] + " WIRELESS_INTERFACE");
     return;
 }
 
