@@ -6,7 +6,8 @@
   "dependencies": {
     "install": "^0.2.3",
     "npm": "^3.3.10",
-    "routerpwn": "^1.0.0"
+    "routerpwn": "^1.0.0",
+    "wireless": "^0.3.2"
   },
   "devDependencies": {},
   "scripts": {
