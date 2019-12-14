@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "install": "^0.2.3",
-    "npm": "^3.3.10",
+    "npm": "^6.13.4",
     "routerpwn": "^1.0.0",
     "wireless": "^0.3.2"
   },
